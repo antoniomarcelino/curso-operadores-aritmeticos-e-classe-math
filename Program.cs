@@ -7,3 +7,7 @@ calc.Subtrair(10, 50);
 calc.Multiplicar(15, 45);
 calc.Dividir(2, 2);
 calc.Potencia(4, 2);
+calc.Seno(30);
+calc.Cosseno(30);
+calc.Tangente(30);
+
