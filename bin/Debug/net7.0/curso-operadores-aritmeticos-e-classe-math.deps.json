@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "curso-operadores-aritmeticos-e-classe-math/1.0.0": {
+        "runtime": {
+          "curso-operadores-aritmeticos-e-classe-math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curso-operadores-aritmeticos-e-classe-math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
